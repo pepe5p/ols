@@ -1,0 +1,1536 @@
+#STARE SEZONY
+    $n = 13;
+    $nn[1] = '<li><a href=#1>I Edycja - Sezon 2000/2001</a></li>';
+    $nt[1] = '<div id="1" class="kat">I Edycja - Sezon 2000/2001</div>
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-1"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #999;">OLSM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #f2dd8a;">Piorowice</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #cccce5;">PZ Nr 2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #edcc8b;">Młodzi</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">4</div></div>
+                            <div class="col-11"><div class="tilestatn">Ozety</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">5</div></div>
+                            <div class="col-11"><div class="tilestatn">Salezjanie</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">6</div></div>
+                            <div class="col-11"><div class="tilestatn">Pokemony</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">7</div></div>
+                            <div class="col-11"><div class="tilestatn">Konar</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">8</div></div>
+                            <div class="col-11"><div class="tilestatn">PZ Nr 2 LO</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[2] = '<li><a href=#2>II Edycja - Sezon 2001/2002</a></li>';
+    $nt[2] = '<div id="2" class="kat">II Edycja - Sezon 2001/2002</div>
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-1"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #999;">OLSM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #f2dd8a;">Piorowice</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #cccce5;">Ekonomik</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #edcc8b;">Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">4</div></div>
+                            <div class="col-11"><div class="tilestatn">Debeściaki</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">5</div></div>
+                            <div class="col-11"><div class="tilestatn">Wolf-Gang</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">6</div></div>
+                            <div class="col-11"><div class="tilestatn">Kilersi</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">7</div></div>
+                            <div class="col-11"><div class="tilestatn">Konar</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">8</div></div>
+                            <div class="col-11"><div class="tilestatn">Ozety</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[3] = '<li><a href=#3>III Edycja - Sezon 2002/2003</a></li>';
+    $nt[3] = '<div id="3" class="kat">III Edycja - Sezon 2002/2003</div>
+                <div class="row no-gutters">
+                    <div class="col-6">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-2"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #999;">OLSM1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #f2dd8a;">Piorowice</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #cccce5;">Włosienica</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #edcc8b;">Przecinaki</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">4</div></div>
+                            <div class="col-10"><div class="tilestatn">Victroia</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">5</div></div>
+                            <div class="col-10"><div class="tilestatn">Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">6</div></div>
+                            <div class="col-10"><div class="tilestatn">Przeciszów</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">7</div></div>
+                            <div class="col-10"><div class="tilestatn">Pędzące Mszyce</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">8</div></div>
+                            <div class="col-10"><div class="tilestatn">Wolf-Gang</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">9</div></div>
+                            <div class="col-10"><div class="tilestatn">Pz Nr 2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">10</div></div>
+                            <div class="col-10"><div class="tilestatn">Pz Nr 3</div></div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-2"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #f2dd8a;">Osiek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #cccce5;">Wola</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #edcc8b;">Ziomale</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">4</div></div>
+                            <div class="col-10"><div class="tilestatn">Zaborze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">5</div></div>
+                            <div class="col-10"><div class="tilestatn">Diabły</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">6</div></div>
+                            <div class="col-10"><div class="tilestatn">Tornado</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[4] = '<li><a href=#4>IV Edycja - Sezon 2003/2004</a></li>';
+    $nt[4] = '<div id="4" class="kat">IV Edycja - Sezon 2003/2004</div>
+                <div class="row no-gutters">
+                    <div class="col-6">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-2"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #999;">OLSM1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #f2dd8a;"> Osiek II</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #cccce5;">Włosienica</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #edcc8b;">Timmy and The Lords</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">4</div></div>
+                            <div class="col-10"><div class="tilestatn">Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">5</div></div>
+                            <div class="col-10"><div class="tilestatn">Osiek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">6</div></div>
+                            <div class="col-10"><div class="tilestatn">Przeciszów</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">7</div></div>
+                            <div class="col-10"><div class="tilestatn">Wolf-Gang</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">8</div></div>
+                            <div class="col-10"><div class="tilestatn">MKS Jawiszowice</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">9</div></div>
+                            <div class="col-10"><div class="tilestatn">KS Skidzyń</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">10</div></div>
+                            <div class="col-10"><div class="tilestatn">Zatorzanka</div></div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-2"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #f2dd8a;">MUKS Gilus</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #cccce5;">GIM Osiek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #edcc8b;">GIM 1 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">4</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM 2 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">5</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM Zaborze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">6</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM 2 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">7</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM 3 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">8</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM 2 II Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">9</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS Podolsze</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[5] = '<li><a href=#5>V Edycja - Sezon 2004/2005</a></li>';
+    $nt[5] = '<div id="5" class="kat">V Edycja - Sezon 2004/2005</div>
+                <div class="row no-gutters">
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;"> Osiek I</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">Grunwald</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">PZ Nr 3</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">MKS Jawiszowice</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ Nr 1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">Emenemss</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">KS Skidziń</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">Salos</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">Zator</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">GIM 1 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">UKS Podolsze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">MUKS Gilus</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">Osiek</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">GIM 2 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">GIM Osiek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">GIM 3 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 4 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">ZSZ 1 Oświęcim</div></div>
+                        </div>
+                    </div>
+                </div>';
+                $nn[5] = '<li><a href=#5>V Edycja - Sezon 2004/2005</a></li>';
+    $nn[6] = '<li><a href=#6>VI Edycja - Sezon 2005/2006</a></li>';
+    $nt[6] = '<div id="6" class="kat">VI Edycja - Sezon 2005/2006</div>
+                <div class="row no-gutters">
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">MUKS Gilus</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">Konar</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">Grunwald Chełmek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">Salos</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">CUK Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">Osiek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">Za Szybcy</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">Ekonom</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">MUKS Gilus</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">GIM 2 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">UKS Podolsze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">Salos Speranza</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM Osiek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 3 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 Oświęcim II</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM Osiek II</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">10</div></div>
+                            <div class="col-9"><div class="tilestatn">ZS 1 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">11</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 Brzeszcze I</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">12</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 Brzeszcze II</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">LKS Orzeł Witkowice</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">MUKS Gilus</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">GIM Osiek I</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 3 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 Bieruń</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM Osiek II</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">10</div></div>
+                            <div class="col-9"><div class="tilestatn">Salos Speranza</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">11</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 4 Oświęcim</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">12</div></div>
+                            <div class="col-9"><div class="tilestatn">ZSZ 1Oświęcim</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[7] = '<li><a href=#7>VII Edycja - Sezon 2006/2007</a></li>';
+    $nt[7] = '<div id="7" class="kat">VII Edycja - Sezon 2006/2007</div>
+                <div class="row no-gutters">
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">MUKS „GILUS” GILOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">PZ 10 „KOPERNIK” KĘTY</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">GRUNWALD CHEŁMEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">SALOS SPERANZA</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR1 „KONAR” OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">K.S. „RODAKOWSKI” TYCHY</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR 2 OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR 6 BRZESZCZE</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">GIM OSIEK-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">GILUS GILOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">GIM NR2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM NR1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM OSIEK-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">MG NR2 OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">ZS NR1 OŚWIĘCIM</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">LKS „ORZEŁ” WITKOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">GIM OSIEK I</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">GIM 1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">ZSGL WOLA</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">MG 2 OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 KĘTY</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">MG 3 OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">SOKOŁ IMIELIN</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">10</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM OSIEK II</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">11</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 BIERUŃ</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">12</div></div>
+                            <div class="col-9"><div class="tilestatn">ZS 1 OŚWIĘCIM</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[8] = '<li><a href=#8>VIII Edycja - Sezon 2007/2008</a></li>';
+    $nt[8] = '<div id="8" class="kat">VIII Edycja - Sezon 2007/2008</div>
+                <div class="row no-gutters">
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">MUKS „GILUS” GILOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">OSC TYCHY</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">PZ NR 6 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR 2 „CHEMIK-A” OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR 1 „KONAR-A” OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR 2 „CHEMIK-B” OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR 1 „KONAR-B” OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">PZ NR 4 „EKONOM” OŚWIĘCIM</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">GIM OSIEK-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">GIM NR 2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">GIM NR 1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM ZABORZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM IMIELIN</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">ZS NR1-A OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM OSIEK-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">MUKS „GILUS” GILOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">MG NR2 OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">10</div></div>
+                            <div class="col-9"><div class="tilestatn">ZS NR1-B OŚWIĘCIM</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">„GRUNWALD” CHEŁMEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">MUKS „GILUS” GILOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">LKS „ORZEŁ” WITKOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM IMIELIN</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM OSIEK-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">SALOS OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">MG NR 3 OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM OSIEK-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">10</div></div>
+                            <div class="col-9"><div class="tilestatn">MG NR 2 OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">11</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS „SETBOL” OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">12</div></div>
+                            <div class="col-9"><div class="tilestatn">ZS NR1-B OŚWIĘCIM</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[9] = '<li><a href=#9>IX Edycja - Sezon 2008/2009</a></li>';
+    $nt[9] = '<div id="9" class="kat">IX Edycja - Sezon 2008/2009</div>
+                <div class="row no-gutters">
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">PZ NR10 KOPERNIK KĘTY</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">OSP BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">OSIEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">HARNASIE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">KONAR ALARM-SERVICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">KONAR-B” OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">ELITA</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">CHEMIK PZ2 OŚWIĘCIM</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">GIM OSIEK-1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">GIM NR 1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">UKS JOCKER-1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM ZABORZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS JOCKER-2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">MUKS GILUS GILOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM OSIEK-2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">MG 2 OŚWIĘCIM-1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">10</div></div>
+                            <div class="col-9"><div class="tilestatn">MG 1 OŚWIĘCIM-2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">11</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS JOCKER-3</div></div>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-3"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #f2dd8a;">GRUNWALD-A CHEŁMEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #cccce5;">MUKS „GILUS” GILOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-9"><div class="tilestatn" style="background-color: #edcc8b;">LKS „ORZEŁ” WITKOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">4</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM 1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">5</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS SETBOL-2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">6</div></div>
+                            <div class="col-9"><div class="tilestatn">GRUNWALD-B CHEŁMEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">7</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS JOCKER-1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">8</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM OSIEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">9</div></div>
+                            <div class="col-9"><div class="tilestatn">GIM WOLA</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">10</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS SETBOL-1B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">11</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS SETBOL-1A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-3"><div class="tilestatsm">12</div></div>
+                            <div class="col-9"><div class="tilestatn">UKS JOCKER-2</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[10] = '<li><a href=#10>X Edycja - Sezon 2009/2010</a></li>';
+    $nt[10] = '<div id="10" class="kat">X Edycja - Sezon 2009/2010</div>
+                <div class="row no-gutters">
+                    <div class="col-6">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-2"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #999;">OLSM2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #f2dd8a;">GIM 1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #cccce5;">UKS JOCKER-1</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #edcc8b;">GIM OSIEK-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">4</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM 2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">5</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS JOCKER-2</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">6</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM ZABORZE 6</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">7</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM OSIEK-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">8</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS JOCKER-3</div></div>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-2"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #f2dd8a;">GIM OSIEK-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #cccce5;">LKS „ORZEŁ” WITKOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-10"><div class="tilestatn" style="background-color: #edcc8b;">UKS SETBOL-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">4</div></div>
+                            <div class="col-10"><div class="tilestatn">SALOS OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">5</div></div>
+                            <div class="col-10"><div class="tilestatn">GRUNWALD CHEŁMEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">6</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS SETBOL-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">7</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM 1 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">8</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS JOCKER-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">9</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM 2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">10</div></div>
+                            <div class="col-10"><div class="tilestatn">MOSiR OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">11</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS SETBOL-C</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">12</div></div>
+                            <div class="col-10"><div class="tilestatn">GIM OSIEK-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">13</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS JOCKER-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-2"><div class="tilestatsm">14</div></div>
+                            <div class="col-10"><div class="tilestatn">UKS JOCKER-C</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[11] = '<li><a href=#11>XI Edycja - Sezon 2010/2011</a></li>';
+    $nt[11] = '<div id="11" class="kat">XI Edycja - Sezon 2010/2011</div>
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-1"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #f2dd8a;">UKS SETBOL A OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #cccce5;">GIMNAZJUM CHEŁM ŚLĄSKI</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #edcc8b;">UMKS KĘCZANIN KĘTY</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">4</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS SETBOL B OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">5</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS SOKÓŁ ZATOR</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">6</div></div>
+                            <div class="col-11"><div class="tilestatn">LKS ORZEŁ WITKOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">7</div></div>
+                            <div class="col-11"><div class="tilestatn">SMS EDU-SPORT</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">8</div></div>
+                            <div class="col-11"><div class="tilestatn">GIM 2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">9</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS JOCKER_A OSWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">10</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS JOCKER_B OSWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">11</div></div>
+                            <div class="col-11"><div class="tilestatn">GIMNAZJUM OSIEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">12</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS SETBOL C OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">13</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS JOCKER_C OSWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">14</div></div>
+                            <div class="col-11"><div class="tilestatn">GIM 1 BRZESZCZE</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[12] = '<li><a href=#12>XII Edycja - Sezon 2011/2012</a></li>';
+    $nt[12] = '<div id="12" class="kat">XII Edycja - Sezon 2011/2012</div>
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-1"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #f2dd8a;">UKS SETBOL A OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #cccce5;">GIMNAZJUM CHEŁM ŚLĄSKI</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #edcc8b;">UMKS KĘCZANIN KĘTY</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">4</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS SETBOL B OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">5</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS SOKÓŁ ZATOR</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">6</div></div>
+                            <div class="col-11"><div class="tilestatn">LKS ORZEŁ WITKOWICE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">7</div></div>
+                            <div class="col-11"><div class="tilestatn">SMS EDU-SPORT</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">8</div></div>
+                            <div class="col-11"><div class="tilestatn">GIM 2 BRZESZCZE</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">9</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS JOCKER_A OSWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">10</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS JOCKER_B OSWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">11</div></div>
+                            <div class="col-11"><div class="tilestatn">GIMNAZJUM OSIEK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">12</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS SETBOL C OŚWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">13</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS JOCKER_C OSWIĘCIM</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">14</div></div>
+                            <div class="col-11"><div class="tilestatn">GIM 1 BRZESZCZE</div></div>
+                        </div>
+                    </div>
+                </div>';
+    $nn[13] = '<li><a href=#13>XIII Edycja - Sezon 2012/2013</a></li>';
+    $nt[13] = '<div id="13" class="kat">XIII Edycja - Sezon 2012/2013</div>
+                <div class="row no-gutters">
+                    <div class="col-12">
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-1"><div class="tilestatn" style="background-color: #999;">msc</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #999;">OLSK</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #d1ab12; text-shadow: 2px 2px 4px #000;">1</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #f2dd8a;">UMKS Kęczanin-A Kęty</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #87879e; text-shadow: 2px 2px 4px #000;">2</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #cccce5;">UKS Setbol-A</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm" style="background-color: #a8843c; text-shadow: 2px 2px 4px #000;">3</div></div>
+                            <div class="col-11"><div class="tilestatn" style="background-color: #edcc8b;">UKS Setbol-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">4</div></div>
+                            <div class="col-11"><div class="tilestatn">Gimnazjum Kozy</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">5</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS Setbol-C</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">6</div></div>
+                            <div class="col-11"><div class="tilestatn">Gimnazjum Chełm Śląski</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">7</div></div>
+                            <div class="col-11"><div class="tilestatn">Gimnazjum 1 Brzeszcze</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">8</div></div>
+                            <div class="col-11"><div class="tilestatn">UMKS Kęczanin-B</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">9</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS Setbol-D</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">10</div></div>
+                            <div class="col-11"><div class="tilestatn">UKS Setbol-E</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">11</div></div>
+                            <div class="col-11"><div class="tilestatn">Pszczyna</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">12</div></div>
+                            <div class="col-11"><div class="tilestatn">Porabka</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">13</div></div>
+                            <div class="col-11"><div class="tilestatn">	Zator</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">14</div></div>
+                            <div class="col-11"><div class="tilestatn">ZSWola</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">15</div></div>
+                            <div class="col-11"><div class="tilestatn">ZSG2Kety</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">16</div></div>
+                            <div class="col-11"><div class="tilestatn">ChelmSlaski</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">17</div></div>
+                            <div class="col-11"><div class="tilestatn">Witkowice</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">18</div></div>
+                            <div class="col-11"><div class="tilestatn">Bierun</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">19</div></div>
+                            <div class="col-11"><div class="tilestatn">Chelmek</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">20</div></div>
+                            <div class="col-11"><div class="tilestatn">ZSG1Kety</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">21</div></div>
+                            <div class="col-11"><div class="tilestatn">SPWola</div></div>
+                        </div>
+                        <div class="row no-gutters" style="font-family: '."'Barlow'".', sans-serif;">
+                            <div class="col-12"><div class="tilestatspanel" style="height: 0;"></div></div>
+                            <div class="col-1"><div class="tilestatsm">22</div></div>
+                            <div class="col-11"><div class="tilestatn">Jocker</div></div>
+                        </div>
+                    </div>
+                </div>';

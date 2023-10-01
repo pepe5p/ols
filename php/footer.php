@@ -8,7 +8,7 @@
     <div id="footer2">
         <div id="logos">
             <p>
-                <a target="_blank" href="http://web.um.oswiecim.pl/oswiecim/"><img src='img/logomiasto.png' /></a><a target="_blank" href="http://www.mosir.oswiecim.pl/stronaGlowna-7.html"><img src='img/logomosir.jpg' /></a><a target="_blank" href="http://sp2osw.pl/"><img src='img/logosp2.jpg' /></a><a target="_blank" href="http://setbol.eu"><img src='img/logosetbol.jpg' /></a><a target="_blank" href="http://web.um.oswiecim.pl/oswiecim/"><img src='img/logomiasto.png' /></a><a target="_blank" href="http://www.mosir.oswiecim.pl/stronaGlowna-7.html"><img src='img/logomosir.jpg' /></a><a target="_blank" href="http://sp2osw.pl/"><img src='img/logosp2.jpg' /></a><a target="_blank" href="http://setbol.eu"><img src='img/logosetbol.jpg' /></a>
+                <a target="_blank" href="http://web.um.oswiecim.pl/oswiecim/"><img src='img/logomiasto.png' /></a><a target="_blank" href="http://sp2osw.pl/"><img src='img/logosp2.jpg' /></a><a target="_blank" href="http://setbol.eu"><img src='img/logosetbol.jpg' /></a><a target="_blank" href="http://web.um.oswiecim.pl/oswiecim/"><img src='img/logomiasto.png' /></a><a target="_blank" href="http://sp2osw.pl/"><img src='img/logosp2.jpg' /></a><a target="_blank" href="http://setbol.eu"><img src='img/logosetbol.jpg' /></a>
             </p>
         </div>
     </div>
@@ -17,8 +17,8 @@
         <div class="footbox">
             <div class="row">
                 <div class="col-4 col-lg-2">Kontakt</div>
-            <div class="col-4 col-lg-2">606 134 463</div>
-            <div class="col-4 col-lg-2">kryfit@op.pl</div>
+            <div class="col-4 col-lg-2">+48 506 144 518</div>
+            <div class="col-4 col-lg-2">mwsetbol@gmail.com</div>
             <div class="col-lg-6">2018 © Wszelkie prawa zastrzeżone.</div>
             </div>
         </div>
@@ -42,9 +42,6 @@
         if($rezultatn = @$polaczenie->query($news))
         {
             $rown = mysqli_fetch_assoc($rezultatn);
-
-            if(!$rown) return;
-
             $id = $rown["id"];
             $tresc = $rown['tresc'];
             
